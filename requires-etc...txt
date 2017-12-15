@@ -1,0 +1,20 @@
+https://www.sdxcentral.com/articles/editorial/key-attributes-software-defined-infrastructure/2015/07/
+Ansible to configure network and storage elements -> automation and scalatization
+docker -> virtualization (container basically)
+OpenStack as cloud base -> Group based policy
+check aula 11 slide, aula 12 (programmable infrastructure
+cluster manager -> apache mesos (open source)
+application architecture -> microservices
+deployment environment -> containers
+deployment approach -> cloud/continuous delivery
+for networking check slides aula14
+network: automated IP address management,
+ssh rsa key authentication,
+firewalls can categorize device traffic to ensure critical traffic flows properly and efficiently,
+vpn
+computers in each department are connected over the same LAN
+Access to the outside world, via the internet is another function of the network. 
+A router which can have multiple devices connect to it is called a switching router and these are commonly used by 
+SMEs to provide internet access as well as a modest network capability. Further servers are required to run things 
+like printing services and email delivery, but these can usually be combined on the same machine. 
+private network connection to the main servers
