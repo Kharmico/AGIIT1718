@@ -1,0 +1,60 @@
+
+
+
+Rede:
+
+-Modulo central com a DNS server, loadBalancer firewall e entrada para o extrior
+
+-sub modulos administrativos (area academica, departamentos (inforamtica, manutenção, laboratorios))
+
+
+Construir a rede de modo a que seja plug and play de modulos
+
+Os submodulos têm um parte de administração (firewall e control de acessos) e têm tbm laboratorios e coisa assim
+
+
+
+
+
+
+
+
+
+network riquerements:
+
+VPN
+
+control acesses
+
+scalable 
+
+standards -
+			-cabling, the following standards
+			best practices
+interoperable (following standards)
+
+Typo de trafego (interno ou externo)
+
+Identificar servicços que precisao de Qso e faz 
+
+
+SDN (Software Defined Networking) can be
+used to improve the efficiency of the routing
+protocols.
+
+
+Equipment requirements:
+
+Data communications: APs (Access points)
+					Numero de acesspoints
+
+
+
+Energy management system:
+HVAC systems
+
+HVAC management system:
+Lighting control systems
+
+Security systems
+(CCTV, card access, biometric):

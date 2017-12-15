@@ -1,0 +1,47 @@
+
+1º--------------------------------
+
+dizer qual é o tema -  Software Defined Infrastructure: Software Defined- Networking, Systems/ Servers, Storage, Data Center.
+
+-A University with several campi spread in a Metropolitan area
+
+1. Application/Systems Automation, and Orchestration = Vagrant , ansible 
+2. Configuration Management = ansible
+3. Monitoring and Performance Management = nagios
+4. Faults and Problems Handling = Raid1 (1 disco partido em 2 só metade é que é usada e a outra metade é backup)
+5. Data Center Infrastructure Management = pode dar uma sugestão?
+
+
+2º--------------
+
+Mostrar a arquitectura é uma coisa deste genero?
+
+Data center pode ser apenas uma VM da Rede ou precisamos de dizer a aquitectura do data center?
+
+fazemos deploy na cloud? vale a pena ? diagrama todo em cloud?
+
+
+
+
+-----------------------------------------
+
+Como é que é de forma generica contituida a rede (pode ser um exemplo e não a rede propriamente dita)
+
+Existem sub redes internas, exemplo de um motivo para a existencia dessas redes interas e como é que feito o contro e proteceção dessas redes (se aplicavel)
+
+
+Como é que feita a protecção da rede interna da empresa.
+		Como é feito o contro de acesso, autenticação, acessos por VPN
+
+Bases de dados, controlo de acesso (virtual e fisico)
+
+
+Que tipos de componentes precisaão de protecção fisica? como é que isto é controlado
+
+
+Deteção, prevenção e recuperação de falhas (systema critico e não critico)
+
+Exemplo de um systema critico e das protecções necessarias
+
+
+
